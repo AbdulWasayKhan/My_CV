@@ -1,0 +1,53 @@
+body{
+  font-family: times"Times New Roman"
+  padding: 2em;
+}
+
+h1{
+  color: blue;
+  font-size: 2.5em
+}
+
+h2{
+  background-color: lightgray;
+  font-family: times"Times New Roman";
+  font-size: 1.5em;
+  color: purple;
+  text-align: center;
+}
+
+h3{
+  background-color: lightgray;
+  font-family: times"Times New Roman";
+  font-size: 1.7em;
+  color: purple;
+  text-align: center;
+}
+
+table{
+  width: 100%;
+}
+
+#contact{
+font-weight: bold;
+
+}
+
+#picture{
+  float: right;
+  z-index: -1;
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  width: 150px;
+  height: 150px;
+}
+
+#ttp{
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+#now{
+  color: green;
+}
